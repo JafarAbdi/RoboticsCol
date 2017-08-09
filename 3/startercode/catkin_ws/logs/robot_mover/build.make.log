@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target robot_mover_xacro_generated_to_devel_space_[0m
+[35m[1mScanning dependencies of target mover[0m
+[  0%] Built target robot_mover_xacro_generated_to_devel_space_
+[ 50%] [32mBuilding CXX object CMakeFiles/mover.dir/src/mover.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/.private/robot_mover/lib/robot_mover/mover[0m
+[100%] Built target mover

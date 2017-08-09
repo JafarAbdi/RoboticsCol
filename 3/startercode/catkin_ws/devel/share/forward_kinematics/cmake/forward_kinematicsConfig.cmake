@@ -1,0 +1,1 @@
+/home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/.private/forward_kinematics/share/forward_kinematics/cmake/forward_kinematicsConfig.cmake

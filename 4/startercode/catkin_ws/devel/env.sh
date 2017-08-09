@@ -1,0 +1,1 @@
+/home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/catkin_tools_prebuild/env.sh

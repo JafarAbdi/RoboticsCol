@@ -1,0 +1,4 @@
+motion_planning
+/home/jafar/Desktop/Courses/RoboticsCol/5/startercode/catkin_ws/devel/.private/motion_planning/lib/pkgconfig/motion_planning.pc /home/jafar/Desktop/Courses/RoboticsCol/5/startercode/catkin_ws/devel/lib/pkgconfig/motion_planning.pc
+/home/jafar/Desktop/Courses/RoboticsCol/5/startercode/catkin_ws/devel/.private/motion_planning/share/motion_planning/cmake/motion_planningConfig-version.cmake /home/jafar/Desktop/Courses/RoboticsCol/5/startercode/catkin_ws/devel/share/motion_planning/cmake/motion_planningConfig-version.cmake
+/home/jafar/Desktop/Courses/RoboticsCol/5/startercode/catkin_ws/devel/.private/motion_planning/share/motion_planning/cmake/motion_planningConfig.cmake /home/jafar/Desktop/Courses/RoboticsCol/5/startercode/catkin_ws/devel/share/motion_planning/cmake/motion_planningConfig.cmake

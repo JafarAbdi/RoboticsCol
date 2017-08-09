@@ -1,0 +1,5 @@
+/usr/bin/ld: cannot find -lurdf
+collect2: error: ld returned 1 exit status
+make[2]: *** [/home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/robot_sim/lib/robot_sim/robot_sim_bringup] Error 1
+make[1]: *** [CMakeFiles/robot_sim_bringup.dir/all] Error 2
+make: *** [all] Error 2

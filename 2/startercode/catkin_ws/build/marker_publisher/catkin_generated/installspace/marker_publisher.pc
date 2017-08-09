@@ -1,0 +1,8 @@
+prefix=/home/jafar/Desktop/Courses/RoboticsCol/2/startercode/catkin_ws/install
+
+Name: marker_publisher
+Description: Description of marker_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jafar/Desktop/Courses/RoboticsCol/2/startercode/catkin_ws/install/lib 
+Requires: roscpp visualization_msgs

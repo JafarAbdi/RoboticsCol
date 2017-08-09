@@ -1,0 +1,4 @@
+forward_kinematics
+/home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/.private/forward_kinematics/lib/pkgconfig/forward_kinematics.pc /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/lib/pkgconfig/forward_kinematics.pc
+/home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/.private/forward_kinematics/share/forward_kinematics/cmake/forward_kinematicsConfig.cmake /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/share/forward_kinematics/cmake/forward_kinematicsConfig.cmake
+/home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/.private/forward_kinematics/share/forward_kinematics/cmake/forward_kinematicsConfig-version.cmake /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/share/forward_kinematics/cmake/forward_kinematicsConfig-version.cmake

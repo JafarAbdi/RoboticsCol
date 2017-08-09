@@ -1,0 +1,5 @@
+Symlinking /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/lib/librobot_sim.so
+Symlinking /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/lib/pkgconfig/robot_sim.pc
+Symlinking /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/lib/robot_sim/robot_sim_bringup
+Symlinking /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/share/robot_sim/cmake/robot_simConfig-version.cmake
+Symlinking /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/share/robot_sim/cmake/robot_simConfig.cmake

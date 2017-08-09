@@ -1,0 +1,1 @@
+/home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/lwr_defs/share/lwr_defs/cmake/lwr_defsConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/jafar/Desktop/Courses/RoboticsCol/5/startercode/catkin_ws/install
+
+Name: lwr_robot_moveit_config
+Description: Description of lwr_robot_moveit_config
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/jafar/Desktop/Courses/RoboticsCol/5/startercode/catkin_ws/install/lib 
+Requires: 

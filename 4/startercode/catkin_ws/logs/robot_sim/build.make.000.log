@@ -1,0 +1,18 @@
+[35m[1mScanning dependencies of target robot_sim[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/robot_sim.dir/src/robot.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/robot_sim.dir/src/joint_state_publisher.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/robot_sim.dir/src/velocity_controller.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/robot_sim.dir/src/position_controller.cpp.o[0m
+[ 71%] [32m[1mLinking CXX shared library /home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/robot_sim/lib/librobot_sim.so[0m
+[ 71%] Built target robot_sim
+[35m[1mScanning dependencies of target robot_sim_bringup[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/robot_sim_bringup.dir/src/robot_sim_bringup.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/robot_sim/lib/robot_sim/robot_sim_bringup[0m
+/usr/bin/ld: cannot find -lurdf
+collect2: error: ld returned 1 exit status
+CMakeFiles/robot_sim_bringup.dir/build.make:120: recipe for target '/home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/robot_sim/lib/robot_sim/robot_sim_bringup' failed
+make[2]: *** [/home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/robot_sim/lib/robot_sim/robot_sim_bringup] Error 1
+CMakeFiles/Makefile2:328: recipe for target 'CMakeFiles/robot_sim_bringup.dir/all' failed
+make[1]: *** [CMakeFiles/robot_sim_bringup.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

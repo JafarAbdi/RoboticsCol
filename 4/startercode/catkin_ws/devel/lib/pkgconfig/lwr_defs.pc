@@ -1,0 +1,1 @@
+/home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/lwr_defs/lib/pkgconfig/lwr_defs.pc

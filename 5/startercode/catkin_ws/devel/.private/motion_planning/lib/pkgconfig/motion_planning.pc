@@ -1,0 +1,8 @@
+prefix=/home/jafar/Desktop/Courses/RoboticsCol/5/startercode/catkin_ws/devel/.private/motion_planning
+
+Name: motion_planning
+Description: Description of motion_planning
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jafar/Desktop/Courses/RoboticsCol/5/startercode/catkin_ws/devel/.private/motion_planning/lib 
+Requires: actionlib control_msgs interactive_markers moveit_commander moveit_msgs rospy sensor_msgs tf visualization_msgs

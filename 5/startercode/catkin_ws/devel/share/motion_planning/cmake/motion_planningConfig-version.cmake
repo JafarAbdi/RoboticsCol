@@ -1,0 +1,1 @@
+/home/jafar/Desktop/Courses/RoboticsCol/5/startercode/catkin_ws/devel/.private/motion_planning/share/motion_planning/cmake/motion_planningConfig-version.cmake

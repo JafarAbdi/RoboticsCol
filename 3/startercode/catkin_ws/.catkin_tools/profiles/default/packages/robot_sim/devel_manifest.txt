@@ -1,0 +1,6 @@
+robot_sim
+/home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/.private/robot_sim/lib/librobot_sim.so /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/lib/librobot_sim.so
+/home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/.private/robot_sim/lib/pkgconfig/robot_sim.pc /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/lib/pkgconfig/robot_sim.pc
+/home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/.private/robot_sim/lib/robot_sim/robot_sim_bringup /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/lib/robot_sim/robot_sim_bringup
+/home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/.private/robot_sim/share/robot_sim/cmake/robot_simConfig-version.cmake /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/share/robot_sim/cmake/robot_simConfig-version.cmake
+/home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/.private/robot_sim/share/robot_sim/cmake/robot_simConfig.cmake /home/jafar/Desktop/Courses/RoboticsCol/3/startercode/catkin_ws/devel/share/robot_sim/cmake/robot_simConfig.cmake

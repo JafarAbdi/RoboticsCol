@@ -1,0 +1,1 @@
+/home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/cartesian_control/share/cartesian_control/cmake/cartesian_controlConfig.cmake

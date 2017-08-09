@@ -1,0 +1,6 @@
+devel_space: /home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel
+install: false
+install_space: /home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/install
+profile: default
+source_space: /home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/src
+workspace: /home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws

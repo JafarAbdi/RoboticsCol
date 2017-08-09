@@ -1,0 +1,5 @@
+digraph G {
+node [shape=box];
+"world_link" [label="world_link"];
+node [shape=ellipse, color=blue, fontcolor=blue];
+}

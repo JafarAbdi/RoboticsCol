@@ -1,0 +1,2 @@
+project1_solution:two_int_talker
+-DCATKIN_DEVEL_PREFIX=/home/jafar/Desktop/Courses/RoboticsCol/1/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jafar/Desktop/Courses/RoboticsCol/1/catkin_ws/install -G Unix Makefiles

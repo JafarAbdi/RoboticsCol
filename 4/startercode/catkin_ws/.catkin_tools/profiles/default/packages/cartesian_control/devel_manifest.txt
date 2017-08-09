@@ -1,0 +1,4 @@
+cartesian_control
+/home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/cartesian_control/lib/pkgconfig/cartesian_control.pc /home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/lib/pkgconfig/cartesian_control.pc
+/home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/cartesian_control/share/cartesian_control/cmake/cartesian_controlConfig.cmake /home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/share/cartesian_control/cmake/cartesian_controlConfig.cmake
+/home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/cartesian_control/share/cartesian_control/cmake/cartesian_controlConfig-version.cmake /home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/share/cartesian_control/cmake/cartesian_controlConfig-version.cmake

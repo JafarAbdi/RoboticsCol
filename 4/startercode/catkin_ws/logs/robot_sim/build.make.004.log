@@ -1,0 +1,3 @@
+[ 71%] Built target robot_sim
+[ 85%] [32m[1mLinking CXX executable /home/jafar/Desktop/Courses/RoboticsCol/4/startercode/catkin_ws/devel/.private/robot_sim/lib/robot_sim/robot_sim_bringup[0m
+[100%] Built target robot_sim_bringup
